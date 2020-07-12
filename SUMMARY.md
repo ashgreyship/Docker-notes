@@ -30,7 +30,7 @@
   * [进入容器](ji-ben-gai-nian/rong-qi/jin-ru-rong-qi.md)
   * [导出和导入](ji-ben-gai-nian/rong-qi/dao-chu-he-dao-ru.md)
   * [删除](ji-ben-gai-nian/rong-qi/shan-chu.md)
-  * [run, start, exec 总结](ji-ben-gai-nian/rong-qi/run-start-exec-zong-jie.md)
+  * [exec, run 和 start](ji-ben-gai-nian/rong-qi/run-start-exec-zong-jie.md)
 * [仓库](ji-ben-gai-nian/cang-ku/README.md)
   * [拉取&推送](ji-ben-gai-nian/cang-ku/la-qu-tui-song.md)
   * [公共和私有仓库](ji-ben-gai-nian/cang-ku/gong-gong-he-si-you-cang-ku.md)

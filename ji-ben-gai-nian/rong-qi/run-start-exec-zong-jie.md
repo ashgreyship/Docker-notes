@@ -1,4 +1,4 @@
-# run, start, exec 总结
+# exec, run 和 start
 
 * 如果容器不存在，使用`docker run` 命令根据指定镜像创建容器。
 * 如果容器存在：
