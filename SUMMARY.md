@@ -10,6 +10,7 @@
   * [获取和运行镜像](ji-ben-gai-nian/jing-xiang/huo-qu-he-yun-hang-jing-xiang.md)
   * [列出镜像](ji-ben-gai-nian/jing-xiang/lie-chu-jing-xiang.md)
   * [删除镜像](ji-ben-gai-nian/jing-xiang/shan-chu-jing-xiang.md)
+  * [删除镜像标签](ji-ben-gai-nian/jing-xiang/shan-chu-jing-xiang-biao-qian.md)
   * [Commit 命令](ji-ben-gai-nian/jing-xiang/commit.md)
   * [使用 Dockerfile 定制镜像](ji-ben-gai-nian/jing-xiang/shi-yong-dockerfile-ding-zhi-jing-xiang.md)
   * [Dockerfile 命令](ji-ben-gai-nian/jing-xiang/dockerfile-ming-ling/README.md)
